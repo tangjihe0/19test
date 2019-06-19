@@ -6,4 +6,8 @@
     <groupId>com.190619.ceshi</groupId>
     <artifactId>19test</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>jar</packaging>
+    <properties>
+        <file.encoding>UTF-8</file.encoding>
+    </properties>
 </project>
